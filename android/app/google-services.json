@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257784099227",
+    "firebase_url": "https://fastchat-xxxx.firebaseio.com",
+    "project_id": "fastchat-xxxx",
+    "storage_bucket": "fastchat-xxxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257784099227:android:177c19262622bd4333b13e",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257784099227-s11j4vrkdlvo8lqvd85k3vsen6e7dglv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxxx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257784099227-s11j4vrkdlvo8lqvd85k3vsen6e7dglv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
